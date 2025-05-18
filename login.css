@@ -1,0 +1,38 @@
+body {
+    background: #23223a;
+    font-family: 'Poppins', sans-serif;
+}
+.login-container {
+    max-width: 400px;
+    margin: 80px auto;
+    background: #353353;
+    border-radius: 16px;
+    box-shadow: 0 0 24px #0002;
+    padding: 2.5rem 2rem;
+}
+.login-title {
+    color: #fff;
+    font-weight: 600;
+    margin-bottom: 1.5rem;
+    text-align: center;
+}
+.form-label, .form-control {
+    color: #fff;
+}
+.form-control {
+    background: #23223a;
+    border: none;
+    border-radius: 8px;
+}
+.btn-login {
+    background: #a18aff;
+    color: #fff;
+    font-weight: 500;
+    border-radius: 8px;
+}
+.btn-login:hover {
+    background: #8c6cff;
+}
+.alert {
+    border-radius: 8px;
+}
